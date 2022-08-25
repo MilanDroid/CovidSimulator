@@ -1,0 +1,455 @@
+// 2 estaciones 4 recursos
+[
+{
+"Day": 1,
+"NotAttendedPacients": 236,
+"AttendedPacients": 202,
+"AttendedPacientsMorning": 91,
+"AttendedPacientsAfternoon": 111,
+"AttentionMedian": 50,
+"AttentionMedianMorning": 45,
+"AttentionMedianAfternoon": 55,
+"WaitingTimeMedian": 153
+},
+{
+"Day": 2,
+"NotAttendedPacients": 253,
+"AttendedPacients": 208,
+"AttendedPacientsMorning": 98,
+"AttendedPacientsAfternoon": 110,
+"AttentionMedian": 52,
+"AttentionMedianMorning": 49,
+"AttentionMedianAfternoon": 55,
+"WaitingTimeMedian": 164
+},
+{
+"Day": 3,
+"NotAttendedPacients": 257,
+"AttendedPacients": 201,
+"AttendedPacientsMorning": 86,
+"AttendedPacientsAfternoon": 115,
+"AttentionMedian": 50,
+"AttentionMedianMorning": 43,
+"AttentionMedianAfternoon": 57,
+"WaitingTimeMedian": 186
+},
+{
+"Day": 4,
+"NotAttendedPacients": 232,
+"AttendedPacients": 203,
+"AttendedPacientsMorning": 89,
+"AttendedPacientsAfternoon": 114,
+"AttentionMedian": 50,
+"AttentionMedianMorning": 44,
+"AttentionMedianAfternoon": 57,
+"WaitingTimeMedian": 165
+},
+{
+"Day": 5,
+"NotAttendedPacients": 255,
+"AttendedPacients": 204,
+"AttendedPacientsMorning": 94,
+"AttendedPacientsAfternoon": 110,
+"AttentionMedian": 51,
+"AttentionMedianMorning": 47,
+"AttentionMedianAfternoon": 55,
+"WaitingTimeMedian": 189
+},
+{
+"Day": 6,
+"NotAttendedPacients": 254,
+"AttendedPacients": 208,
+"AttendedPacientsMorning": 93,
+"AttendedPacientsAfternoon": 115,
+"AttentionMedian": 52,
+"AttentionMedianMorning": 46,
+"AttentionMedianAfternoon": 57,
+"WaitingTimeMedian": 184
+},
+{
+"Day": 7,
+"NotAttendedPacients": 231,
+"AttendedPacients": 209,
+"AttendedPacientsMorning": 90,
+"AttendedPacientsAfternoon": 119,
+"AttentionMedian": 52,
+"AttentionMedianMorning": 45,
+"AttentionMedianAfternoon": 59,
+"WaitingTimeMedian": 164
+},
+{
+"Day": 8,
+"NotAttendedPacients": 236,
+"AttendedPacients": 208,
+"AttendedPacientsMorning": 91,
+"AttendedPacientsAfternoon": 117,
+"AttentionMedian": 52,
+"AttentionMedianMorning": 45,
+"AttentionMedianAfternoon": 58,
+"WaitingTimeMedian": 155
+},
+{
+"Day": 9,
+"NotAttendedPacients": 237,
+"AttendedPacients": 204,
+"AttendedPacientsMorning": 93,
+"AttendedPacientsAfternoon": 111,
+"AttentionMedian": 51,
+"AttentionMedianMorning": 46,
+"AttentionMedianAfternoon": 55,
+"WaitingTimeMedian": 166
+},
+{
+"Day": 10,
+"NotAttendedPacients": 245,
+"AttendedPacients": 206,
+"AttendedPacientsMorning": 94,
+"AttendedPacientsAfternoon": 112,
+"AttentionMedian": 51,
+"AttentionMedianMorning": 47,
+"AttentionMedianAfternoon": 56,
+"WaitingTimeMedian": 166
+}
+]
+
+// 4 stations, 6 resources
+[
+{
+    "Day": 1,
+    "NotAttendedPacients": 132,
+    "AttendedPacients": 325,
+    "AttendedPacientsMorning": 100,
+    "AttendedPacientsAfternoon": 225,
+    "AttentionMedian": 54,
+    "AttentionMedianMorning": 50,
+    "AttentionMedianAfternoon": 56,
+    "WaitingTimeMedian": 120
+},
+{
+    "Day": 2,
+    "NotAttendedPacients": 129,
+    "AttendedPacients": 325,
+    "AttendedPacientsMorning": 95,
+    "AttendedPacientsAfternoon": 230,
+    "AttentionMedian": 54,
+    "AttentionMedianMorning": 47,
+    "AttentionMedianAfternoon": 57,
+    "WaitingTimeMedian": 115
+},
+{
+    "Day": 3,
+    "NotAttendedPacients": 151,
+    "AttendedPacients": 309,
+    "AttendedPacientsMorning": 91,
+    "AttendedPacientsAfternoon": 218,
+    "AttentionMedian": 51,
+    "AttentionMedianMorning": 45,
+    "AttentionMedianAfternoon": 54,
+    "WaitingTimeMedian": 134
+},
+{
+    "Day": 4,
+    "NotAttendedPacients": 127,
+    "AttendedPacients": 311,
+    "AttendedPacientsMorning": 90,
+    "AttendedPacientsAfternoon": 221,
+    "AttentionMedian": 51,
+    "AttentionMedianMorning": 45,
+    "AttentionMedianAfternoon": 55,
+    "WaitingTimeMedian": 106
+},
+{
+    "Day": 5,
+    "NotAttendedPacients": 129,
+    "AttendedPacients": 328,
+    "AttendedPacientsMorning": 94,
+    "AttendedPacientsAfternoon": 234,
+    "AttentionMedian": 54,
+    "AttentionMedianMorning": 47,
+    "AttentionMedianAfternoon": 58,
+    "WaitingTimeMedian": 131
+},
+{
+    "Day": 6,
+    "NotAttendedPacients": 127,
+    "AttendedPacients": 320,
+    "AttendedPacientsMorning": 94,
+    "AttendedPacientsAfternoon": 226,
+    "AttentionMedian": 53,
+    "AttentionMedianMorning": 47,
+    "AttentionMedianAfternoon": 56,
+    "WaitingTimeMedian": 116
+},
+{
+    "Day": 7,
+    "NotAttendedPacients": 156,
+    "AttendedPacients": 313,
+    "AttendedPacientsMorning": 85,
+    "AttendedPacientsAfternoon": 228,
+    "AttentionMedian": 52,
+    "AttentionMedianMorning": 42,
+    "AttentionMedianAfternoon": 57,
+    "WaitingTimeMedian": 152
+},
+{
+    "Day": 8,
+    "NotAttendedPacients": 112,
+    "AttendedPacients": 313,
+    "AttendedPacientsMorning": 91,
+    "AttendedPacientsAfternoon": 222,
+    "AttentionMedian": 52,
+    "AttentionMedianMorning": 45,
+    "AttentionMedianAfternoon": 55,
+    "WaitingTimeMedian": 105
+},
+{
+    "Day": 9,
+    "NotAttendedPacients": 158,
+    "AttendedPacients": 315,
+    "AttendedPacientsMorning": 92,
+    "AttendedPacientsAfternoon": 223,
+    "AttentionMedian": 52,
+    "AttentionMedianMorning": 46,
+    "AttentionMedianAfternoon": 55,
+    "WaitingTimeMedian": 148
+},
+{
+    "Day": 10,
+    "NotAttendedPacients": 115,
+    "AttendedPacients": 329,
+    "AttendedPacientsMorning": 94,
+    "AttendedPacientsAfternoon": 235,
+    "AttentionMedian": 54,
+    "AttentionMedianMorning": 47,
+    "AttentionMedianAfternoon": 58,
+    "WaitingTimeMedian": 111
+}
+]
+
+//   6 estaciones 9 recursos
+[
+{
+    "Day": 1,
+    "NotAttendedPacients": 7,
+    "AttendedPacients": 449,
+    "AttendedPacientsMorning": 137,
+    "AttendedPacientsAfternoon": 312,
+    "AttentionMedian": 49,
+    "AttentionMedianMorning": 45,
+    "AttentionMedianAfternoon": 52,
+    "WaitingTimeMedian": 22
+},
+{
+    "Day": 2,
+    "NotAttendedPacients": 3,
+    "AttendedPacients": 455,
+    "AttendedPacientsMorning": 128,
+    "AttendedPacientsAfternoon": 327,
+    "AttentionMedian": 50,
+    "AttentionMedianMorning": 42,
+    "AttentionMedianAfternoon": 54,
+    "WaitingTimeMedian": 21
+},
+{
+    "Day": 3,
+    "NotAttendedPacients": 4,
+    "AttendedPacients": 426,
+    "AttendedPacientsMorning": 131,
+    "AttendedPacientsAfternoon": 295,
+    "AttentionMedian": 47,
+    "AttentionMedianMorning": 43,
+    "AttentionMedianAfternoon": 49,
+    "WaitingTimeMedian": 16
+},
+{
+    "Day": 4,
+    "NotAttendedPacients": 7,
+    "AttendedPacients": 436,
+    "AttendedPacientsMorning": 131,
+    "AttendedPacientsAfternoon": 305,
+    "AttentionMedian": 48,
+    "AttentionMedianMorning": 43,
+    "AttentionMedianAfternoon": 50,
+    "WaitingTimeMedian": 17
+},
+{
+    "Day": 5,
+    "NotAttendedPacients": 10,
+    "AttendedPacients": 437,
+    "AttendedPacientsMorning": 123,
+    "AttendedPacientsAfternoon": 314,
+    "AttentionMedian": 48,
+    "AttentionMedianMorning": 41,
+    "AttentionMedianAfternoon": 52,
+    "WaitingTimeMedian": 22
+},
+{
+    "Day": 6,
+    "NotAttendedPacients": 5,
+    "AttendedPacients": 456,
+    "AttendedPacientsMorning": 133,
+    "AttendedPacientsAfternoon": 323,
+    "AttentionMedian": 50,
+    "AttentionMedianMorning": 44,
+    "AttentionMedianAfternoon": 53,
+    "WaitingTimeMedian": 31
+},
+{
+    "Day": 7,
+    "NotAttendedPacients": 9,
+    "AttendedPacients": 433,
+    "AttendedPacientsMorning": 127,
+    "AttendedPacientsAfternoon": 306,
+    "AttentionMedian": 48,
+    "AttentionMedianMorning": 42,
+    "AttentionMedianAfternoon": 51,
+    "WaitingTimeMedian": 18
+},
+{
+    "Day": 8,
+    "NotAttendedPacients": 12,
+    "AttendedPacients": 412,
+    "AttendedPacientsMorning": 128,
+    "AttendedPacientsAfternoon": 284,
+    "AttentionMedian": 45,
+    "AttentionMedianMorning": 42,
+    "AttentionMedianAfternoon": 47,
+    "WaitingTimeMedian": 15
+},
+{
+    "Day": 9,
+    "NotAttendedPacients": 10,
+    "AttendedPacients": 435,
+    "AttendedPacientsMorning": 135,
+    "AttendedPacientsAfternoon": 300,
+    "AttentionMedian": 48,
+    "AttentionMedianMorning": 45,
+    "AttentionMedianAfternoon": 50,
+    "WaitingTimeMedian": 17
+},
+{
+    "Day": 10,
+    "NotAttendedPacients": 10,
+    "AttendedPacients": 428,
+    "AttendedPacientsMorning": 140,
+    "AttendedPacientsAfternoon": 288,
+    "AttentionMedian": 47,
+    "AttentionMedianMorning": 46,
+    "AttentionMedianAfternoon": 48,
+    "WaitingTimeMedian": 14
+}
+]
+
+// Stations: 8. Resources: 14
+[
+    {
+      "Day": 1,
+      "NotAttendedPacients": 0,
+      "AttendedPacients": 444,
+      "AttendedPacientsMorning": 136,
+      "AttendedPacientsAfternoon": 308,
+      "AttentionMedian": 0,
+      "AttentionMedianMorning": 0,
+      "AttentionMedianAfternoon": 0,
+      "WaitingTimeMedian": 0
+    },
+    {
+      "Day": 2,
+      "NotAttendedPacients": 1,
+      "AttendedPacients": 446,
+      "AttendedPacientsMorning": 149,
+      "AttendedPacientsAfternoon": 297,
+      "AttentionMedian": 31,
+      "AttentionMedianMorning": 24,
+      "AttentionMedianAfternoon": 37,
+      "WaitingTimeMedian": 8
+    },
+    {
+      "Day": 3,
+      "NotAttendedPacients": 3,
+      "AttendedPacients": 453,
+      "AttendedPacientsMorning": 149,
+      "AttendedPacientsAfternoon": 304,
+      "AttentionMedian": 32,
+      "AttentionMedianMorning": 24,
+      "AttentionMedianAfternoon": 38,
+      "WaitingTimeMedian": 8
+    },
+    {
+      "Day": 4,
+      "NotAttendedPacients": 2,
+      "AttendedPacients": 424,
+      "AttendedPacientsMorning": 139,
+      "AttendedPacientsAfternoon": 285,
+      "AttentionMedian": 30,
+      "AttentionMedianMorning": 23,
+      "AttentionMedianAfternoon": 35,
+      "WaitingTimeMedian": 8
+    },
+    {
+      "Day": 5,
+      "NotAttendedPacients": 1,
+      "AttendedPacients": 453,
+      "AttendedPacientsMorning": 147,
+      "AttendedPacientsAfternoon": 306,
+      "AttentionMedian": 32,
+      "AttentionMedianMorning": 24,
+      "AttentionMedianAfternoon": 38,
+      "WaitingTimeMedian": 9
+    },
+    {
+      "Day": 6,
+      "NotAttendedPacients": 2,
+      "AttendedPacients": 451,
+      "AttendedPacientsMorning": 155,
+      "AttendedPacientsAfternoon": 296,
+      "AttentionMedian": 32,
+      "AttentionMedianMorning": 25,
+      "AttentionMedianAfternoon": 37,
+      "WaitingTimeMedian": 8
+    },
+    {
+      "Day": 7,
+      "NotAttendedPacients": 1,
+      "AttendedPacients": 447,
+      "AttendedPacientsMorning": 147,
+      "AttendedPacientsAfternoon": 300,
+      "AttentionMedian": 31,
+      "AttentionMedianMorning": 24,
+      "AttentionMedianAfternoon": 37,
+      "WaitingTimeMedian": 8
+    },
+    {
+      "Day": 8,
+      "NotAttendedPacients": 0,
+      "AttendedPacients": 446,
+      "AttendedPacientsMorning": 154,
+      "AttendedPacientsAfternoon": 292,
+      "AttentionMedian": 0,
+      "AttentionMedianMorning": 0,
+      "AttentionMedianAfternoon": 0,
+      "WaitingTimeMedian": 0
+    },
+    {
+      "Day": 9,
+      "NotAttendedPacients": 1,
+      "AttendedPacients": 463,
+      "AttendedPacientsMorning": 152,
+      "AttendedPacientsAfternoon": 311,
+      "AttentionMedian": 33,
+      "AttentionMedianMorning": 25,
+      "AttentionMedianAfternoon": 38,
+      "WaitingTimeMedian": 9
+    },
+    {
+      "Day": 10,
+      "NotAttendedPacients": 1,
+      "AttendedPacients": 455,
+      "AttendedPacientsMorning": 149,
+      "AttendedPacientsAfternoon": 306,
+      "AttentionMedian": 32,
+      "AttentionMedianMorning": 24,
+      "AttentionMedianAfternoon": 38,
+      "WaitingTimeMedian": 8
+    }
+  ]
