@@ -1,6 +1,6 @@
 {
-  "stations": [2, 4, 6, 8],
-  "resources": [4, 6, 9, 14],
-  "attendedPacients": [202, 325, 449, 444],
-  "notAttendedPacients": [236, 132, 7, 0],
+	"stations": [2, 4, 6, 8],
+	"resources": [4, 6, 9, 14],
+	"attendedPacients": [202, 325, 449, 444],
+	"notAttendedPacients": [236, 132, 7, 0]
 }

@@ -1,22 +1,21 @@
+import json
 import matplotlib.pyplot as plt
-import numpy as np
 
-def addition(n):
-    return n / 300
+data = '''[{}]''' # Insert the JSON data here
 
-fig = plt.figure()
-# x = np.random.normal(1, 5, 500)
-# y = np.random.normal(1, 5, 500)
+# Load the JSON data
+json_data = json.loads(data)
 
-# size = np.random.normal(1, 60, 500)
+# Extract data for plotting
+days = [entry["Day"] for entry in json_data]
+attended_patients = [entry["AttendedPacients"] for entry in json_data]
+not_attended_patients = [entry["NotAttendedPacients"] for entry in json_data]
 
-# colour = np.arctan2(x, y)
-
-x = (2, 4, 6, 8)
-y = (4, 6, 9, 14)
-size = (202, 325, 449, 444)
-colour = list(map(addition, (236, 132, 7, 0)))
-
-plt.scatter(x, y, s = size, c = colour, alpha = 0.8)
-plt.colorbar()
+# Plot the data
+plt.plot(days, attended_patients, label='Attended Patients')
+plt.plot(days, not_attended_patients, label='Not Attended Patients')
+plt.xlabel('Days')
+plt.ylabel('Number of Patients')
+plt.title('COVID Simulation Results')
+plt.legend()
 plt.show()
